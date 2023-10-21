@@ -1,2 +1,2 @@
-#!/usr/bin/pytho<F8><F8>
-print('Hello, Linux')
+#!/usr/bin/python
+print('Hello, Word!')
